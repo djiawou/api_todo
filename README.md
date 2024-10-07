@@ -14,8 +14,8 @@ Assurez-vous d'avoir un fichier `.env` avec les configurations suivantes
 1. Cloner le projet :
 
 ```bash
-git clone <url_du_projet>
-cd <nom_du_projet>
+git clone git@github.com:djiawou/api_todo.git
+cd api_todo
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
